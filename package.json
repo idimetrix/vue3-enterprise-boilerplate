@@ -1,5 +1,6 @@
 {
   "name": "vue3-enterprise-boilerplate",
+  "description": "A robust starter template utilizing Vue 3, TypeScript, Vite, Vue Router, Pinia, Axios, Tailwind CSS, Vue Query, and Vue i18n, designed for building highly efficient, fast, maintainable, and scalable enterprise applications.",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -54,7 +55,7 @@
     "@vue/eslint-config-typescript": "13.0.0",
     "@vue/tsconfig": "0.5.1",
     "autoprefixer": "10.4.20",
-    "eslint": "8.57.0",
+    "eslint": "8.57.1",
     "eslint-plugin-vue": "9.28.0",
     "postcss": "8.4.47",
     "prettier": "3.3.3",
